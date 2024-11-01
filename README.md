@@ -66,3 +66,4 @@ Mendefinisikan harga tiket:
 harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk member didefinisikan sebesar 0.20 (20%)
 
 # Latihan 3 Kasus 2 Program kalkulator sederhana
+![WhatsApp Image 2024-11-01 at 00 09 08 (1)](https://github.com/user-attachments/assets/0f8d1bf0-2736-41f2-8aa6-6afef430aab2)
