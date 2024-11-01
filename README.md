@@ -67,3 +67,23 @@ harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket
 
 # Latihan 3 Kasus 2 Program kalkulator sederhana
 ![WhatsApp Image 2024-11-01 at 00 09 08 (1)](https://github.com/user-attachments/assets/0f8d1bf0-2736-41f2-8aa6-6afef430aab2)
+
+![Cuplikan layar 2024-11-01 144434](https://github.com/user-attachments/assets/1574b7f1-e228-45de-808c-60d95633ee9a)
+
+Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. Berikut penjelasan kode secara detail:
+
+input:
+
+Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka.
+
+Validasi Operator:
+
+Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan.
+
+Operasi Aritmatika:
+
+Berdasarkan operator yang valid, kode melakukan operasi aritmatika yang sesuai dan menyimpan hasilnya dalam variabel hasil.
+
+Output:
+
+Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar. Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if-elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
