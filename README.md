@@ -46,3 +46,10 @@ Pada contoh output di sisi kanan gambar, jika gaji 5.000.000, status berkeluarga
 
 # Latihan 3 : Memggunkan kondisi OR Program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
 
+![Cuplikan layar 2024-11-01 142535](https://github.com/user-attachments/assets/d9e29ea0-6196-444c-9f0b-9f7fdb6c40ea)
+
+Input Data:
+
+Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika
+
+# Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
